@@ -1,0 +1,74 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Probability and Statistics: Theorems, Formulas, and Definitions"
+  author: "Daniel Vartanian"
+  site-url: https://danielvartan.github.io/probability/
+  repo-url: https://github.com/danielvartan/probability/
+  repo-branch: main
+  sharing: [twitter]
+  chapters:
+    - index.qmd
+    - part: qmd/fundamentals.qmd
+      chapters: 
+        - qmd/set-theory.qmd
+        - qmd/variables.qmd
+        - qmd/combinatorics.qmd
+    - part: qmd/probability.qmd
+      chapters: 
+        - qmd/introduction.qmd
+        - qmd/bayes-theorem.qmd
+    - part: qmd/basic-statistics.qmd
+      chapters: 
+        - qmd/summary-measures.qmd
+        - qmd/covariance-and-correlation.qmd
+        - qmd/graphic-outputs.qmd
+    - part: qmd/inference.qmd
+      chapters: 
+        - qmd/sampling.qmd
+        - qmd/discrete-probability-distributions.qmd
+        - qmd/continuous-probability-distributions.qmd
+        - qmd/statistical-significance.qmd
+        - qmd/validity-and-reliability.qmd
+        - qmd/sensitivity-and-specificity.qmd
+        - qmd/cronbach-s-alpha.qmd
+        - qmd/hypothesis-test.qmd
+        - qmd/effect-size.qmd
+        - qmd/family-wise-error-rate.qmd
+        - qmd/power-analysis.qmd
+    - part: qmd/univariate-analysis.qmd
+      chapters: 
+        - qmd/student-s-t-test.qmd
+        - qmd/linear-regression.qmd
+        - qmd/anova.qmd
+        - qmd/ancova.qmd
+        - qmd/general-linear-model.qmd
+    - part: qmd/multivariate-analysis.qmd
+      chapters: 
+        - qmd/multiple-regression.qmd
+        - qmd/logistic-regression.qmd
+        - qmd/multiple-discriminant-analysis.qmd
+        - qmd/conjoint-analysis.qmd
+        - qmd/cluster-analysis.qmd
+        - qmd/multidimensional-scaling.qmd
+        - qmd/manova.qmd
+        - qmd/mancova.qmd
+        - qmd/exploratory-factor-analysis.qmd
+        - qmd/confirmatory-factor-analysis.qmd
+        - qmd/correspondence -analysis.qmd
+        - qmd/structural-equations-models.qmd
+    - part: qmd/time-series.qmd
+      chapters: 
+        - qmd/time-series-components.qmd
+        - qmd/smoothing-techniques.qmd
+    - qmd/useful-resources.qmd
+    - qmd/references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    code-link: true

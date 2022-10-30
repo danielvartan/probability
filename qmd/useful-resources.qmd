@@ -1,0 +1,9 @@
+# Useful resources {.unnumbered}
+
+* [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+* [List of LaTeX symbols](https://latex-programming.fandom.com/wiki/List_of_LaTeX_symbols)
+* [Mathematical fonts in LaTeX](https://www.physicsread.com/latex-mathematical-font/)
+* [Detexify](https://detexify.kirelabs.org/classify.html)
+* [Desmos](https://www.desmos.com/)
+* [Wolfram|Alpha](https://www.wolframalpha.com/)
+* [Symbolab](https://www.symbolab.com/)

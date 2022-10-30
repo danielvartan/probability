@@ -1,0 +1,11 @@
+# Discrete probability distributions
+
+Nothing here yet!
+
+## Poisson
+
+## Bernoulli
+
+## Binomial
+
+## Geometric

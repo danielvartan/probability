@@ -1,0 +1,11 @@
+# Time series components
+
+Nothing here yet!
+
+## Trend
+
+## Cyclic variations
+
+## Seasonal variations
+
+## Irregular or random variations

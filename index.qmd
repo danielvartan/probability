@@ -1,0 +1,9 @@
+# Preface {.unnumbered}
+
+[![](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/){fig-align="left"}
+
+The purpose of this book is to support my study of probability and statistics.
+
+See also my calculus book at <https://danielvartan.github.io/calculus/>.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.

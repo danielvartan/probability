@@ -1,0 +1,17 @@
+# Summary measures
+
+Nothing here yet!
+
+## Mean
+
+## Median
+
+## Quantile
+
+## Variance
+
+## Standard deviation
+
+## Kurtosis
+
+## Skewness

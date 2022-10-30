@@ -1,0 +1,436 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Probability and Statistics: Theorems, Formulas, and Definitions",
+    "section": "",
+    "text": "The purpose of this book is to support my study of probability and statistics.\nSee also my calculus book at https://danielvartan.github.io/calculus/.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "qmd/set-theory.html",
+    "href": "qmd/set-theory.html",
+    "title": "1  Set theory",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/variables.html",
+    "href": "qmd/variables.html",
+    "title": "2  Variables",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/combinatorics.html",
+    "href": "qmd/combinatorics.html",
+    "title": "3  Combinatorics",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/probability.html",
+    "href": "qmd/probability.html",
+    "title": "Probability",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/introduction.html",
+    "href": "qmd/introduction.html",
+    "title": "4  Introduction",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/summary-statistics.html",
+    "href": "qmd/summary-statistics.html",
+    "title": "Summary statistics",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/summary-measures.html",
+    "href": "qmd/summary-measures.html",
+    "title": "6  Summary measures",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/summary-measures.html#mean",
+    "href": "qmd/summary-measures.html#mean",
+    "title": "6  Summary measures",
+    "section": "6.1 Mean",
+    "text": "6.1 Mean"
+  },
+  {
+    "objectID": "qmd/summary-measures.html#median",
+    "href": "qmd/summary-measures.html#median",
+    "title": "6  Summary measures",
+    "section": "6.2 Median",
+    "text": "6.2 Median"
+  },
+  {
+    "objectID": "qmd/summary-measures.html#quantile",
+    "href": "qmd/summary-measures.html#quantile",
+    "title": "6  Summary measures",
+    "section": "6.3 Quantile",
+    "text": "6.3 Quantile"
+  },
+  {
+    "objectID": "qmd/summary-measures.html#variance",
+    "href": "qmd/summary-measures.html#variance",
+    "title": "6  Summary measures",
+    "section": "6.4 Variance",
+    "text": "6.4 Variance"
+  },
+  {
+    "objectID": "qmd/summary-measures.html#standard-deviation",
+    "href": "qmd/summary-measures.html#standard-deviation",
+    "title": "6  Summary measures",
+    "section": "6.5 Standard deviation",
+    "text": "6.5 Standard deviation"
+  },
+  {
+    "objectID": "qmd/summary-measures.html#covariance",
+    "href": "qmd/summary-measures.html#covariance",
+    "title": "5  Summary measures",
+    "section": "5.6 Covariance",
+    "text": "5.6 Covariance"
+  },
+  {
+    "objectID": "qmd/summary-measures.html#correlation",
+    "href": "qmd/summary-measures.html#correlation",
+    "title": "5  Summary measures",
+    "section": "5.7 Correlation",
+    "text": "5.7 Correlation"
+  },
+  {
+    "objectID": "qmd/summary-measures.html#kurtosis",
+    "href": "qmd/summary-measures.html#kurtosis",
+    "title": "6  Summary measures",
+    "section": "6.6 Kurtosis",
+    "text": "6.6 Kurtosis"
+  },
+  {
+    "objectID": "qmd/summary-measures.html#skewness",
+    "href": "qmd/summary-measures.html#skewness",
+    "title": "6  Summary measures",
+    "section": "6.7 Skewness",
+    "text": "6.7 Skewness"
+  },
+  {
+    "objectID": "qmd/inference.html",
+    "href": "qmd/inference.html",
+    "title": "Inference",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/sampling.html",
+    "href": "qmd/sampling.html",
+    "title": "6  Sampling",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/discrete-probability-distributions.html",
+    "href": "qmd/discrete-probability-distributions.html",
+    "title": "7  Discrete probability distributions",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/discrete-probability-distributions.html#poisson",
+    "href": "qmd/discrete-probability-distributions.html#poisson",
+    "title": "7  Discrete probability distributions",
+    "section": "7.1 Poisson",
+    "text": "7.1 Poisson"
+  },
+  {
+    "objectID": "qmd/discrete-probability-distributions.html#bernoulli",
+    "href": "qmd/discrete-probability-distributions.html#bernoulli",
+    "title": "7  Discrete probability distributions",
+    "section": "7.2 Bernoulli",
+    "text": "7.2 Bernoulli"
+  },
+  {
+    "objectID": "qmd/discrete-probability-distributions.html#binomial",
+    "href": "qmd/discrete-probability-distributions.html#binomial",
+    "title": "7  Discrete probability distributions",
+    "section": "7.3 Binomial",
+    "text": "7.3 Binomial"
+  },
+  {
+    "objectID": "qmd/discrete-probability-distributions.html#geometric",
+    "href": "qmd/discrete-probability-distributions.html#geometric",
+    "title": "7  Discrete probability distributions",
+    "section": "7.4 Geometric",
+    "text": "7.4 Geometric"
+  },
+  {
+    "objectID": "qmd/continuous-probability-distributions.html",
+    "href": "qmd/continuous-probability-distributions.html",
+    "title": "8  Continuous probability distributions",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/continuous-probability-distributions.html#normal",
+    "href": "qmd/continuous-probability-distributions.html#normal",
+    "title": "8  Continuous probability distributions",
+    "section": "8.1 Normal",
+    "text": "8.1 Normal"
+  },
+  {
+    "objectID": "qmd/continuous-probability-distributions.html#student-t",
+    "href": "qmd/continuous-probability-distributions.html#student-t",
+    "title": "8  Continuous probability distributions",
+    "section": "8.2 Student-t",
+    "text": "8.2 Student-t"
+  },
+  {
+    "objectID": "qmd/continuous-probability-distributions.html#exponential",
+    "href": "qmd/continuous-probability-distributions.html#exponential",
+    "title": "8  Continuous probability distributions",
+    "section": "8.3 Exponential",
+    "text": "8.3 Exponential"
+  },
+  {
+    "objectID": "qmd/statistical-significance.html",
+    "href": "qmd/statistical-significance.html",
+    "title": "9  Confidence interval",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/hypothesis-test.html",
+    "href": "qmd/hypothesis-test.html",
+    "title": "10  Hypothesis test",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/effect-size.html",
+    "href": "qmd/effect-size.html",
+    "title": "11  Effect size",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/family-wise-error-rate.html",
+    "href": "qmd/family-wise-error-rate.html",
+    "title": "12  Effect size",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/power-analysis.html",
+    "href": "qmd/power-analysis.html",
+    "title": "13  Power analysis",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/univariate-analysis.html",
+    "href": "qmd/univariate-analysis.html",
+    "title": "Univariate analysis",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/student-s-t-test.html",
+    "href": "qmd/student-s-t-test.html",
+    "title": "14  Student’s t-test",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/linear-regression.html",
+    "href": "qmd/linear-regression.html",
+    "title": "15  Linear regression",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/anova.html",
+    "href": "qmd/anova.html",
+    "title": "16  ANOVA",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/ancova.html",
+    "href": "qmd/ancova.html",
+    "title": "17  ANCOVA",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/general-linear-model.html",
+    "href": "qmd/general-linear-model.html",
+    "title": "18  General linear model",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/multivariate-analysis.html",
+    "href": "qmd/multivariate-analysis.html",
+    "title": "Multivariate analysis",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/multiple-regression.html",
+    "href": "qmd/multiple-regression.html",
+    "title": "19  Multiple regression",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/logistic-regression.html",
+    "href": "qmd/logistic-regression.html",
+    "title": "20  Logistic regression",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/multiple-discriminant-analysis.html",
+    "href": "qmd/multiple-discriminant-analysis.html",
+    "title": "21  Multiple discriminant analysis",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/conjoint-analysis.html",
+    "href": "qmd/conjoint-analysis.html",
+    "title": "22  Conjoint analysis",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/cluster-analysis.html",
+    "href": "qmd/cluster-analysis.html",
+    "title": "23  Cluster analysis",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/multidimensional-scaling.html",
+    "href": "qmd/multidimensional-scaling.html",
+    "title": "24  Multidimensional scaling",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/manova.html",
+    "href": "qmd/manova.html",
+    "title": "25  MANOVA",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/mancova.html",
+    "href": "qmd/mancova.html",
+    "title": "26  MANCOVA",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/exploratory-factor-analysis.html",
+    "href": "qmd/exploratory-factor-analysis.html",
+    "title": "27  Exploratory factor analysis",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/confirmatory-factor-analysis.html",
+    "href": "qmd/confirmatory-factor-analysis.html",
+    "title": "28  Confirmatory factor analysis",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/correspondence -analysis.html",
+    "href": "qmd/correspondence -analysis.html",
+    "title": "29  Correspondence analysis",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/structural-equations-models.html",
+    "href": "qmd/structural-equations-models.html",
+    "title": "30  Structural equations models",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/useful-resources.html",
+    "href": "qmd/useful-resources.html",
+    "title": "Useful resources",
+    "section": "",
+    "text": "List of LaTeX mathematical symbols\nList of LaTeX symbols\nMathematical fonts in LaTeX\nDetexify\nDesmos\nWolfram|Alpha\nSymbolab"
+  },
+  {
+    "objectID": "qmd/graphic-outputs.html",
+    "href": "qmd/graphic-outputs.html",
+    "title": "8  Graphic outputs",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/covariance-and-correlation.html",
+    "href": "qmd/covariance-and-correlation.html",
+    "title": "7  Covariance and correlation",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/covariance-and-correlation.html#covariance",
+    "href": "qmd/covariance-and-correlation.html#covariance",
+    "title": "7  Covariance and correlation",
+    "section": "7.1 Covariance",
+    "text": "7.1 Covariance"
+  },
+  {
+    "objectID": "qmd/covariance-and-correlation.html#correlation",
+    "href": "qmd/covariance-and-correlation.html#correlation",
+    "title": "7  Covariance and correlation",
+    "section": "7.2 Correlation",
+    "text": "7.2 Correlation"
+  },
+  {
+    "objectID": "qmd/time-series-components.html",
+    "href": "qmd/time-series-components.html",
+    "title": "37  Time series components",
+    "section": "",
+    "text": "Nothing here yet!"
+  },
+  {
+    "objectID": "qmd/time-series-components.html#trend",
+    "href": "qmd/time-series-components.html#trend",
+    "title": "37  Time series components",
+    "section": "37.1 Trend",
+    "text": "37.1 Trend"
+  },
+  {
+    "objectID": "qmd/time-series-components.html#cyclic-variations",
+    "href": "qmd/time-series-components.html#cyclic-variations",
+    "title": "37  Time series components",
+    "section": "37.2 Cyclic variations",
+    "text": "37.2 Cyclic variations"
+  },
+  {
+    "objectID": "qmd/time-series-components.html#seasonal-variations",
+    "href": "qmd/time-series-components.html#seasonal-variations",
+    "title": "37  Time series components",
+    "section": "37.3 Seasonal variations",
+    "text": "37.3 Seasonal variations"
+  },
+  {
+    "objectID": "qmd/time-series-components.html#irregular-or-random-variations",
+    "href": "qmd/time-series-components.html#irregular-or-random-variations",
+    "title": "37  Time series components",
+    "section": "37.4 Irregular or random variations",
+    "text": "37.4 Irregular or random variations"
+  }
+]

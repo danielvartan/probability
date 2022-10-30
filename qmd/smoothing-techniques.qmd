@@ -1,0 +1,9 @@
+# Smoothing techniques
+
+Nothing here yet!
+
+## Simple moving average
+
+## Weighted moving average
+
+## Forecast quality analysis

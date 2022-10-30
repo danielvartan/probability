@@ -1,0 +1,9 @@
+# Continuous probability distributions
+
+Nothing here yet!
+
+## Normal
+
+## Student-t
+
+## Exponential
